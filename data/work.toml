@@ -1,0 +1,34 @@
+# Section title
+title = "Work"
+
+[[projects]]
+    name = "TYPO International Design Talks"
+    folder = "proj-1"
+
+[[projects]]
+    name = "TYPO International Design Talks"
+    folder = "proj-2"
+
+[[projects]]
+    name = "TYPO International Design Talks"
+    folder = "proj-3"
+
+[[projects]]
+    name = "TYPO International Design Talks"
+    folder = "proj-4"
+
+[[projects]]
+name = "TYPO International Design Talks"
+folder = "proj-5"
+
+[[projects]]
+name = "TYPO International Design Talks"
+folder = "proj-6"
+
+[[projects]]
+name = "TYPO International Design Talks"
+folder = "proj-7"
+
+[[projects]]
+name = "TYPO International Design Talks"
+folder = "proj-8"
